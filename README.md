@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Express.js Node.js EJS Machine Learning<br>💬 Ask me about Javascript MongoDB<br>📫 How to reach me jamwalakhil936@gmail.com
+🌱 I’m a MERN Developer<br>💬 Ask me about Typescript<br>📫 How to reach me jamwalakhil936@gmail.com
 
 
 ## 🌐 Socials:
